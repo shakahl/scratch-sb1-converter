@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0](https://github.com/scratchfoundation/scratch-sb1-converter/compare/v1.0.324...v2.0.0) (2024-11-25)
+
+
+* chore!: set license to AGPL-3.0-only ([86d337c](https://github.com/scratchfoundation/scratch-sb1-converter/commit/86d337c80e271ca3b909b04197bbe5ced3e31a8a))
+
+
+### BREAKING CHANGES
+
+* This project is now licensed under the AGPL version 3.0
+
+See https://www.scratchfoundation.org/open-source-license
+
 ## [1.0.324](https://github.com/scratchfoundation/scratch-sb1-converter/compare/v1.0.323...v1.0.324) (2024-11-25)
 
 
